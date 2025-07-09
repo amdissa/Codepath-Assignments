@@ -55,11 +55,11 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Rendering API was the difficult part as it took me awhile to figure out correct formatting
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Nazrin Mammadsoy]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
